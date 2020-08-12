@@ -16,3 +16,7 @@ Em 2002 eu já era profissional, JR, trabalhando na Petrobras. Alí eu comecei a
 ### Aliás, se você não tá sabendo, eu também tenho o meu próprio canal do youtube <img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="300">.
 
 # É isso, eu só não parei!
+
+e se você quer uma dica para a vida:
+
+# Só não para!
