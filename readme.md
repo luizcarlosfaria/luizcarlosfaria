@@ -16,13 +16,14 @@ Ou você me viu em alguma live no
 
 Ou em um podcast do
 
-![](https://devshow.com.br/wp-content/uploads/2019/02/logo.jpg)
+<img src="https://devshow.com.br/wp-content/uploads/2019/02/logo.jpg" width="200">
 
 
 Mesmo sendo do Rio, eu atuo nas atividades virtuais do 
 
-![](https://gago.io/wp-content/uploads/2019/06/meetup-dotnetsp.png)
+<img src="https://gago.io/wp-content/uploads/2019/06/meetup-dotnetsp.png" width="200">
 
 Mas talvez me conheça do 
 
-![](https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif)
+
+<img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="400">
