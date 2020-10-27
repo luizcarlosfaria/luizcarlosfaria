@@ -17,7 +17,7 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 
 ## Moro no Rio em 2005! Mas to sempre nos eventos online do <img src="https://gago.io/wp-content/uploads/2019/06/meetup-dotnetsp.png" width="70">.
 
-### Aliás, se você não tá sabendo, eu também tenho o meu próprio canal do youtube <img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="300">.
+### Aliás, se você não tá sabendo, eu também tenho o meu próprio canal do youtube <a href="https://www.youtube.com/user/luizcarlosfaria?sub_confirmation=1"><img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="300"></a>.
 
 # É isso, eu só não parei!
 
