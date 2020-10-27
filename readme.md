@@ -13,7 +13,9 @@ No ano seguinte ainda no ensino médio eu fiz um segundo curso de Delphi. Sim, d
 
 Em 2002 eu já era profissional, JR, trabalhando na Petrobras. Alí eu comecei a trabalhar com ASP 3, logo estava no time de suporte ao desenvolvimento... era um time de arquitetura... (Lembra daquele pentelho motivado? pois é...)
 
-## Bom cheguei aqui no Rio em 2005! Mas to sempre nos eventos online do <img src="https://gago.io/wp-content/uploads/2019/06/meetup-dotnetsp.png" width="50">.
+De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo de arquiteto em 2007, embora tivesse exercido diversas vezes essa função antes. Em 2010 de fato consolido minha carreira como arquiteto de software e de lá pra cá, acumulo arquitetura de software e arquitetura de solução.
+
+## Moro no Rio em 2005! Mas to sempre nos eventos online do <img src="https://gago.io/wp-content/uploads/2019/06/meetup-dotnetsp.png" width="70">.
 
 ### Aliás, se você não tá sabendo, eu também tenho o meu próprio canal do youtube <img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="300">.
 
