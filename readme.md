@@ -114,6 +114,8 @@ Te convido a conhecer um pouco do início da minha carreira, e de tudo o que eu 
   <a href="https://www.youtube.com/watch?v=tKg26rolF_I" alt="gago.io" target="_blank">
     <img src="https://j.gifs.com/WL40Ev.gif" />
   </a>
+  
+  
   <a href="https://www.youtube.com/watch?v=fWpBqU48T3A" alt="gago.io" target="_blank">
     <img src="https://j.gifs.com/gZzEq3.gif" />
   </a>
