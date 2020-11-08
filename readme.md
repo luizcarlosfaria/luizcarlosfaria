@@ -45,10 +45,6 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://img.shields.io/badge/-StackShare-0690FA?style=flat-square&logo=stackshare&logoColor=white" />
   </a>
   
-  <a href="https://oragon.io/" alt="oragon.io" target="_blank">
-    <img src="https://img.shields.io/badge/-oragon.io-141313?style=flat-square&logo=wordpress&logoColor=white" />
-  </a>
-  
   <a href="https://www.linkedin.com/in/luizcarlosfaria" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
@@ -61,23 +57,25 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://komarev.com/ghpvc/?username=luizcarlosfaria&color=gray&style=flat-square" />
   </a>
   
-  <a href="mailto:contato@gago.io.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  
-  
   
 </p>
 
-<h3 align="center">Redes Sociais</h3>
+<h3 align="center">Websites, Blogs, Cursos</h3>
 
 <p align="center">
+
+  <a href="https://gago.io/" alt="gago.io" target="_blank">
+    <img src="https://img.shields.io/badge/-gaGO.io-0F74C7?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
   
-    
   <a href="https://share.gago.io/telegram" alt="gago.io" target="_blank">
     <img src="https://img.shields.io/badge/-gaGO.io%20%23Bastidores-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>    
+  
+  <a href="https://dockerdefinitivo.com/" alt="gago.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Docker Definitivo-2496ED?style=flat-square&logo=docker&logoColor=white" />
   </a>  
- 
+  
   <a href="https://oragon.io/" alt="oragon.io" target="_blank">
     <img src="https://img.shields.io/badge/-oragon.io-141313?style=flat-square&logo=wordpress&logoColor=white" />
   </a>
