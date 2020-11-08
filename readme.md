@@ -19,6 +19,8 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 
 ### Aliás, se você não tá sabendo, eu também tenho o meu próprio canal do youtube <a href="https://www.youtube.com/user/luizcarlosfaria?sub_confirmation=1"><img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="300"></a>.
 
+ <h3 align="center">Saiba mais...</h3>
+
 <p align="center">
   
   <a href="https://instagram.com/luizcarlosfaria" alt="gago.io" target="_blank">
