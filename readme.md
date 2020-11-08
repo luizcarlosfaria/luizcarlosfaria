@@ -66,6 +66,10 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   
 </p>
 
+<p align="center">
+
+  <h3>Lives</h3>
+
   <a href="https://share.gago.io/instagram-live" alt="gago.io" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram Live-E4405F?style=flat-square&logo=instagram&logoColor=white" />
   </a>
@@ -77,6 +81,8 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   <a href="https://share.gago.io/facebook-live" alt="gago.io" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook Live-ED4242?style=flat-square&logo=facebooklive&logoColor=white" />
   </a>
+
+</p>  
 
 # É isso, eu só não parei!
 
