@@ -22,7 +22,7 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   <a href="https://www.youtube.com/user/luizcarlosfaria?sub_confirmation=1"><img src="https://gago.io/wp-content/uploads/2020/08/subscribe-curto.gif" width="300"></a>
 </p>
 
-<h3 align="center">Saiba mais...</h3>
+<h3 align="center">Redes Sociais</h3>
 
 <p align="center">
   
@@ -33,11 +33,9 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   <a href="https://www.youtube.com/luizcarlosfaria" alt="gago.io" target="_blank">
     <img src="https://img.shields.io/badge/-LuizCarlosFaria-FF0000?style=flat-square&logo=youtube&logoColor=white" />
   </a>
-  
-
-  
-  <a href="https://gago.io/" alt="gago.io" target="_blank">
-    <img src="https://img.shields.io/badge/-gaGO.io-0F74C7?style=flat-square&logo=wordpress&logoColor=white" />
+ 
+  <a href="https://facebook.com/gago.io/" alt="gago.io" target="_blank">
+    <img src="https://img.shields.io/badge/-gaGO.io-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   
   <a href="https://share.gago.io/telegram" alt="gago.io" target="_blank">
@@ -55,6 +53,35 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
+  <a href="https://github.com/luizcarlosfaria" alt="GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/luizcarlosfaria" alt="Views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=luizcarlosfaria&color=gray&style=flat-square" />
+  </a>
+  
+  <a href="mailto:contato@gago.io.com" alt="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  
+  
+  
+</p>
+
+<h3 align="center">Redes Sociais</h3>
+
+<p align="center">
+  
+    
+  <a href="https://share.gago.io/telegram" alt="gago.io" target="_blank">
+    <img src="https://img.shields.io/badge/-gaGO.io%20%23Bastidores-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+  </a>  
+ 
+  <a href="https://oragon.io/" alt="oragon.io" target="_blank">
+    <img src="https://img.shields.io/badge/-oragon.io-141313?style=flat-square&logo=wordpress&logoColor=white" />
+  </a>
+  
   <a href="https://github.com/luizcarlosfaria" alt="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" />
   </a>
