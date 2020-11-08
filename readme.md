@@ -109,7 +109,7 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 
 <p align="center">
 
-Te convido a conhecer um pouco do início da minha carreira, e de tudo o que eu venho fazendo desde de 2002.
+  Te convido a conhecer um pouco do início da minha carreira, e de tudo o que eu venho fazendo desde de 2002.
 
   <a href="https://www.youtube.com/watch?v=tKg26rolF_I" alt="gago.io" target="_blank">
     <img src="https://j.gifs.com/WL40Ev.gif" />
