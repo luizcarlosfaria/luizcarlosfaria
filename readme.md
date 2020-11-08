@@ -38,9 +38,6 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://img.shields.io/badge/-gaGO.io-1877F2?style=flat-square&logo=facebook&logoColor=white" />
   </a>
   
-  <a href="https://share.gago.io/telegram" alt="gago.io" target="_blank">
-    <img src="https://img.shields.io/badge/-gaGO.io%20%23Bastidores-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
-  </a>  
    <a href="https://stackshare.io/luizcarlosfaria" alt="gago.io" target="_blank">
     <img src="https://img.shields.io/badge/-StackShare-0690FA?style=flat-square&logo=stackshare&logoColor=white" />
   </a>
@@ -78,14 +75,6 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   
   <a href="https://oragon.io/" alt="oragon.io" target="_blank">
     <img src="https://img.shields.io/badge/-oragon.io-141313?style=flat-square&logo=wordpress&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/luizcarlosfaria" alt="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/luizcarlosfaria" alt="Views" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=luizcarlosfaria&color=gray&style=flat-square" />
   </a>
   
   <a href="mailto:contato@gago.io.com" alt="Gmail" target="_blank">
