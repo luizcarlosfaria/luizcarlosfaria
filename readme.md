@@ -1,7 +1,7 @@
 # Luiz Carlos Faria
 
 
-### Você pode me conhecer pelo meu site, o <img src="https://gago.io/wp-content/uploads/2018/07/logo-gago3-chumbo.png" width="80">, ou talvez seja (ou conheça) um aluno do <img src="https://dockerdefinitivo.com/wp-content/uploads/2019/12/logo-2-2-azul-e1576220349540-100x58.png" width="80">. 
+### Você pode me conhecer pelo meu site, o <img src="https://gago.azurewebsites.net/wp-content/uploads/2018/07/logo-gago3-chumbo.png" width="80">, ou talvez seja (ou conheça) um aluno do <img src="https://dockerdefinitivo.com/wp-content/uploads/2019/12/logo-2-2-azul-e1576220349540-100x58.png" width="80">. 
 
 ### Já sei, você assistiu alguma live minha no  <img src="https://yt3.ggpht.com/a/AATXAJwWcWCcUbY3OwKSf9_WqQ7PDkp0BNMZXicB1wLP_A=s100-c-k-c0xffffffff-no-rj-mo" width="50"> ou algum podcast no <img src="https://devshow.com.br/wp-content/uploads/2019/02/logo.jpg" width="50">.
 
