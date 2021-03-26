@@ -111,6 +111,7 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 
   Te convido a conhecer um pouco do início da minha carreira, e de tudo o que eu venho fazendo desde de 2002.
 
+
   <a href="https://www.youtube.com/watch?v=tKg26rolF_I" alt="gago.io" target="_blank">
     <img src="https://j.gifs.com/WL40Ev.gif" />
   </a>
@@ -120,10 +121,18 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://j.gifs.com/gZzEq3.gif" />
   </a>
 
-
 </p>  
 
 
+<h3 align="center">Estatísticas</h3>
+
+<p align="center">
+
+  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosfaria)
+
+  ![1](https://github-readme-stats.vercel.app/api?username=luizcarlosfaria)
+
+</p>  
 
 
 # É isso, eu só não parei!
