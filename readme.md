@@ -77,7 +77,7 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://img.shields.io/badge/-oragon.io-141313?style=flat-square&logo=wordpress&logoColor=white" />
   </a>
   
-  <a href="mailto:contato@gago.io.com" alt="Gmail" target="_blank">
+  <a href="mailto:contato@gago.io" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
