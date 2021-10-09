@@ -9,9 +9,17 @@
 
 Nasci em Campos dos Goytacazes, em 1983, comecei tentar desenvolver quando ainda era época do mIRC, eu queria criar alguns scripts. Depois eu comprei um livro de VB, depois fiz um curso de Delphi quando estava na 8ª série. 
 
-No ano seguinte ainda no ensino médio eu fiz um segundo curso de Delphi. Sim, diferente do primeiro curso, nesse existia uma parada muito irada no finalzinho da ementa do curso: se chamava "orientação a objetos". Mas foi frustrante: No meio do curso eu fui expulso da turma. O professor me perguntou o que eu estava fazendo ali, pois eu era o típico pentelho motivado e empolgado que achava tudo legal e estava mais atrapalhando que ajudando. Eu disse que queria aprender Orientação a Objetos, pois era a matéria avançada do final do curso. E ele me enxotou dizendo que não conseguiria abordar esse nível de complexidade naquela turma. Foi alí que eu aprendi que tinha de estudar sozinho.
+No ano seguinte ainda no ensino médio eu fiz um segundo curso de Delphi. Sim, diferente do primeiro curso, nesse existia uma parada muito irada no finalzinho da ementa do curso: se chamava "orientação a objetos". 
 
-Em 2002 eu já era profissional, JR, trabalhando na Petrobras. Alí eu comecei a trabalhar com ASP 3, logo estava no time de suporte ao desenvolvimento... era um time de arquitetura... (Lembra daquele pentelho motivado? pois é...)
+Mas foi frustrante: No meio do curso eu fui expulso da turma. O professor perguntou o que eu estava fazendo ali, pois eu era o típico pentelho motivado e empolgado que achava tudo legal e estava mais atrapalhando que ajudando: 
+
+Eu disse que queria aprender Orientação a Objetos, pois era a matéria avançada do final do curso. E ele me enxotou dizendo que não conseguiria abordar esse assunto naquela turma, que estava engatinhando ainda. 
+
+#### Foi alí que eu aprendi que tinha de estudar sozinho.
+
+Assim de 99 a 2001 eu estudei por conta.
+
+Em 2002 eu já era profissional, JR, trabalhando na Petrobras. Alí eu comecei a trabalhar com ASP 3, logo em 8 meses eu estava no time de suporte ao desenvolvimento... era um time de arquitetura... (Lembra daquele pentelho motivado? pois é...)
 
 De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo de arquiteto em 2007, embora tivesse exercido diversas vezes essa função antes. Em 2010 de fato consolido minha carreira como arquiteto de software e de lá pra cá, acumulo arquitetura de software e arquitetura de solução.
 
@@ -108,31 +116,27 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 <h3 align="center">Minha história</h3>
 
 <p align="center">
-
   Te convido a conhecer um pouco do início da minha carreira, e de tudo o que eu venho fazendo desde de 2002.
+</p>  
 
+<p align="center">
 
-  <a href="https://www.youtube.com/watch?v=tKg26rolF_I" alt="gago.io" target="_blank">
+  <a href="https://www.youtube.com/watch?v=tKg26rolF_I" alt="gago.io" target="_blank" align="center">
     <img src="https://j.gifs.com/WL40Ev.gif" />
   </a>
-  
-  
-  <a href="https://www.youtube.com/watch?v=fWpBqU48T3A" alt="gago.io" target="_blank">
+
+  <a href="https://www.youtube.com/watch?v=fWpBqU48T3A" alt="gago.io" target="_blank" align="center">
     <img src="https://j.gifs.com/gZzEq3.gif" />
   </a>
-
 </p>  
 
 
 <h3 align="center">Estatísticas</h3>
 
 <p align="center">
-
-  ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=luizcarlosfaria)
-
   ![1](https://github-readme-stats.vercel.app/api?username=luizcarlosfaria)
+</p>    
 
-</p>  
 
 
 # É isso, eu só não parei!
