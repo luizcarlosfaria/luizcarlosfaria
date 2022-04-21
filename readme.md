@@ -1,9 +1,10 @@
 # Luiz Carlos Faria
 
 
-### Você pode me conhecer pelo meu site, o <img src="https://res.cloudinary.com/luizcarlosfaria/image/upload/v1543329964/email/logo-grande-chubo.png" width="80">, ou talvez seja (ou conheça) um aluno do <img src="https://dockerdefinitivo.com/wp-content/uploads/2019/12/logo-2-2-azul-e1576220349540-100x58.png" width="80">. 
+### Você pode me conhecer pelo meu site, o <img src="https://res.cloudinary.com/luizcarlosfaria/image/upload/v1543329964/email/logo-grande-chubo.png" width="80">, ou talvez seja (ou conheça) um aluno do <img src="https://cloudnative.net.br/img/logo-retangular-sm.png" width="200">. 
 
-### Já sei, você assistiu alguma live minha no  <img src="https://yt3.ggpht.com/a/AATXAJwWcWCcUbY3OwKSf9_WqQ7PDkp0BNMZXicB1wLP_A=s100-c-k-c0xffffffff-no-rj-mo" width="50"> ou algum podcast no <img src="https://devshow.com.br/wp-content/uploads/2019/02/logo.jpg" width="50">.
+### Já sei, você assistiu alguma live no  <img src="https://yt3.ggpht.com/a/AATXAJwWcWCcUbY3OwKSf9_WqQ7PDkp0BNMZXicB1wLP_A=s100-c-k-c0xffffffff-no-rj-mo" width="50"> ou algum podcast no <img src="https://devshow.com.br/wp-content/uploads/2019/02/logo.jpg" width="50">
+### Sim, eu também faço parte do Canal .NET e do DevShow Podcast.
 
 ### Beleza, não tem problema se você não me conhece. Eu sou Luiz Carlos Faria, muito prazer. 
 
@@ -11,17 +12,24 @@ Nasci em Campos dos Goytacazes, em 1983, comecei tentar desenvolver quando ainda
 
 No ano seguinte ainda no ensino médio eu fiz um segundo curso de Delphi. Sim, diferente do primeiro curso, nesse existia uma parada muito irada no finalzinho da ementa do curso: se chamava "orientação a objetos". 
 
-Mas foi frustrante: No meio do curso eu fui expulso da turma. O professor perguntou o que eu estava fazendo ali, pois eu era o típico pentelho motivado e empolgado que achava tudo legal e estava mais atrapalhando que ajudando: 
+#### Mas foi frustrante: No meio do curso eu fui expulso da turma! 
 
-Eu disse que queria aprender Orientação a Objetos, pois era a matéria avançada do final do curso. E ele me enxotou dizendo que não conseguiria abordar esse assunto naquela turma, que estava engatinhando ainda. 
+O professor perguntou o que eu estava fazendo ali, pois eu era o típico pentelho motivado e empolgado que achava tudo legal, mas que já sabia a matéria e estava mais atrapalhando que ajudando: 
+
+Eu disse que queria aprender Orientação a Objetos, pois era a matéria avançada do final do curso. 
+
+E ele me enxotou daquela turma dizendo que não conseguiria abordar esse assunto naquela turma, que a galera estava atrasada e engatinhando ainda. 
 
 #### Foi alí que eu aprendi que tinha de estudar sozinho.
 
-Assim de 99 a 2001 eu estudei por conta.
+Assim de 1999 a 2001 eu estudei por conta.
 
-Em 2002 eu já era profissional, JR, trabalhando na Petrobras. Alí eu comecei a trabalhar com ASP 3, logo em 8 meses eu estava no time de suporte ao desenvolvimento... era um time de arquitetura... (Lembra daquele pentelho motivado? pois é...)
+Em 2002 eu já trabalhava profissionalmente, ainda como JR, na Petrobras. 
 
-De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo de arquiteto em 2007, embora tivesse exercido diversas vezes essa função antes. Em 2010 de fato consolido minha carreira como arquiteto de software e de lá pra cá, acumulo arquitetura de software e arquitetura de solução.
+Alí eu comecei a trabalhar com ASP 3, logo em 8 meses eu estava no time de arquitetura da regional. O nome do time era "Suporte ao Desenvolvimento". Naquela época "arquitetura" era algo mais presente lá fora, na gringa e nos grandes centros. O termo não havia se popularizado aqui no Brasil, mas Matrix Reload de 2003 coloca o termo The Architect em evidência, e assim começa a se popularizar na TI daqui do Brasil.
+Aliás, chegar ao time foi uma das minhas primeiras grandes conquistas: Lembra daquele pentelho motivado? pois é...
+
+De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo de arquiteto em 2007, embora tivesse exercido diversas vezes essa função antes. Em 2010 de fato consolido minha carreira como arquiteto de software e de lá pra cá, acumulo arquitetura de software e arquitetura de solução e trabalho para enriquecer os 2 skills.
 
 ## Moro no Rio em 2005! Mas to sempre nos eventos online do <img src="https://gago.io/wp-content/uploads/2019/06/meetup-dotnetsp.png" width="70">.
 
