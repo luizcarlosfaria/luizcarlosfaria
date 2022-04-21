@@ -85,8 +85,8 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://img.shields.io/badge/-gaGO.io%20%23Bastidores-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
   </a>    
   
-  <a href="https://dockerdefinitivo.com/" alt="gago.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Docker Definitivo-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <a href="https://cloudnative.net.br/" alt="gago.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Cloud%20Native%20.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
   </a>  
   
   <a href="https://oragon.io/" alt="oragon.io" target="_blank">
