@@ -142,7 +142,7 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 <h3 align="center">Estatísticas</h3>
 
 <p align="center">
-  ![1](https://github-readme-stats.vercel.app/api?username=luizcarlosfaria)
+  <img src="https://github-readme-stats.vercel.app/api?username=luizcarlosfaria" />
 </p>    
 
 
