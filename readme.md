@@ -127,17 +127,6 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   Te convido a conhecer um pouco do início da minha carreira, e de tudo o que eu venho fazendo desde de 2002.
 </p>  
 
-<p align="center">
-
-  <a href="https://www.youtube.com/watch?v=tKg26rolF_I" alt="gago.io" target="_blank" align="center">
-    <img src="https://j.gifs.com/WL40Ev.gif" />
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=fWpBqU48T3A" alt="gago.io" target="_blank" align="center">
-    <img src="https://j.gifs.com/gZzEq3.gif" />
-  </a>
-</p>  
-
 
 <h3 align="center">Estatísticas</h3>
 
