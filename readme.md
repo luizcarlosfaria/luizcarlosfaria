@@ -1,7 +1,7 @@
 # Luiz Carlos Faria
 
 
-### Você pode me conhecer pelo meu site, o <img src="https://res.cloudinary.com/luizcarlosfaria/image/upload/v1543329964/email/logo-grande-chubo.png" width="80">, ou talvez seja (ou conheça) um aluno do <img src="https://cloudnative.net.br/img/logo-retangular-sm.png" width="200">. 
+### Você pode me conhecer pelo meu site, o <img src="https://res.cloudinary.com/luizcarlosfaria/image/upload/v1543329964/email/logo-grande-chubo.png" width="80">, ou talvez seja (ou conheça) um aluno do <img src="https://cloudnative.net.br/img/logo-retangular-sm.png" width="200"> ou <img src="https://mensageria.net/wp-content/uploads/2021/12/Mensageria-dotnet-logo-B2.png" width="200">. 
 
 ### Já sei, você assistiu alguma live no  <img src="https://yt3.ggpht.com/a/AATXAJwWcWCcUbY3OwKSf9_WqQ7PDkp0BNMZXicB1wLP_A=s100-c-k-c0xffffffff-no-rj-mo" width="50"> ou algum podcast no <img src="https://devshow.com.br/wp-content/uploads/2019/02/logo.jpg" width="50">
 ### Sim, eu também faço parte do Canal .NET e do DevShow Podcast.
