@@ -134,6 +134,12 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
   <img src="https://github-readme-stats.vercel.app/api?username=luizcarlosfaria" />
 </p>    
 
+<h3 align="center">Skills</h3>
+
+ 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio,rabbitmq,docker,redis,kubernetes,terraform,ansible,azure,grafana,prometheus,aws,jenkins,nginx,cloudflare,angular,mongodb,nodejs,tailwind,ts" />  
+</p>    
 
 
 # É isso, eu só não parei!
