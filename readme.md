@@ -97,8 +97,6 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   
-  
-  
 </p>
 
 
