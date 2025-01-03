@@ -131,8 +131,19 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 <h3 align="center">Estatísticas</h3>
 
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api?username=luizcarlosfaria" />
-</p>    
+  
+</p>
+
+
+<p align="center">
+
+  <img src="https://api.githubtrends.io/user/svg/luizcarlosfaria/langs" />
+ 
+</p>
+
+
 
 <h3 align="center">Skills</h3>
 
