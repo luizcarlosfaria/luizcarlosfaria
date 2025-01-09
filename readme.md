@@ -137,7 +137,9 @@ De lá pra cá eu fiz muita coisa legal e oficialmente tive meu primeiro cargo d
 
 <p align="center">
 
-  <img src="https://api.githubtrends.io/user/svg/luizcarlosfaria/langs" />
+  <img src="https://api.githubtrends.io/user/svg/luizcarlosfaria/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=classic" />
+ 
+  <img src="https://api.githubtrends.io/user/svg/luizcarlosfaria/langs?time_range=one_year&group=other&loc_metric=changed&theme=classic" />
  
 </p>
 
