@@ -10,7 +10,7 @@
 
 Nasci em Campos dos Goytacazes, em 1983, comecei tentar desenvolver quando ainda era época do mIRC, eu queria criar alguns scripts. Depois eu comprei um livro de VB, depois fiz um curso de Delphi quando estava na 8ª série. 
 
-No ano seguinte ainda no ensino médio eu fiz um segundo curso de Delphi. Sim, diferente do primeiro curso, nesse existia uma parada muito irada no finalzinho da ementa do curso: se chamava "orientação a objetos". 
+No ano seguinte ainda no ensino médio eu fiz um segundo curso de Delphi. Sim, diferente do primeiro curso, nesse existia uma parada muito irada no finalzinho da ementa do curso: se chamava "**orientação a objetos**". 
 
 #### Mas foi frustrante: No meio do curso eu fui expulso da turma! 
 
@@ -20,9 +20,9 @@ Eu disse que queria aprender Orientação a Objetos, pois era a matéria avança
 
 E ele me enxotou daquela turma dizendo que não conseguiria abordar esse assunto naquela turma, que a galera estava atrasada e engatinhando ainda. 
 
-#### Foi alí que eu aprendi que tinha de estudar sozinho.
+#### Foi alí que percebi que teria de estudar sozinho, e que o grupo pode ser um freio de mão, um limitador, quando você é o mais motivado da turma!
 
-Assim de 1999 a 2001 eu estudei por conta.
+Assim de 1999 a 2001 eu estudei por conta própria.
 
 Em 2002 eu já trabalhava profissionalmente, ainda como JR, na Petrobras. 
 
